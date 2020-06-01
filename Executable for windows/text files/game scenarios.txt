@@ -1,0 +1,20 @@
+RNBQKBNRPPPPPPPP--------------------------------pppppppprnbqkbnr0000000
+Human
+Computer
+Classic
+NRBQKBRN-PP--PP---PPPP--------------------pppp---pp--pp-nrbqkbrn1011010
+Human
+Computer
+Pyramid
+RBBQKNNRPPPPPPPP--------------------------------pppppppprbbqknnr0000000
+Human
+Computer
+Displacement chess
+KQBBRNRNPPPPPPPP--------------------------------ppppppppbrnkrnqb1111110
+Human
+Computer
+Transcendental chess
+QRRBB-NNKPP-----PPP-----PPP----------ppp-----ppp-----ppknn-bbrrq1111110
+Human
+Computer
+Corners
