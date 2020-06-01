@@ -2995,7 +2995,7 @@ if True:
                     for piece in captured_pieces:
                         piece_color = 'B' if piece.isupper() else 'W' # Detects the color of the piece
                         # Retrieves and image for a particular piece
-                        img = pygame.image.load('./graphics/' + piece_color + piece + '.png')
+                        img = pygame.image.load('./graphics/' + piece_color + piece.capitalize() + '.png')
                         img = pygame.transform.scale(img, (int(0.08 * board_size), int(0.08 * board_size)))
                         gameDisplay.blit(img, [int(x_pos * board_size), int(y_pos * board_size), int(0.08 * board_size), int(0.08 * board_size)])
 
